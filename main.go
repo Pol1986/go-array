@@ -17,7 +17,7 @@ func main() {
 	bubbleSort(arrSort)
 
 }
-
+//Сортировка
 func bubbleSort(arrSort []int) {
 	//len:=len(arrSort)
 	for i := 0; i < len(arrSort)-1; i++ {
