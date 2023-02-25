@@ -10,7 +10,7 @@ func main() {
 //Печать массивов
 	fmt.Println(array1)
 	fmt.Println(array2)
-
+//Функция
 	arrayMerch(array1, array2)
 
 	fmt.Println("Несортированный массив:", arrSort)
