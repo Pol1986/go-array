@@ -7,7 +7,7 @@ func main() {
 	array1 := []int{1, 2, 6, 9}
 	array2 := []int{3, 4, 5, 7, 8}
 	arrSort := []int{9, 7, 5, 4, 6, 1}
-
+//Печать массивов
 	fmt.Println(array1)
 	fmt.Println(array2)
 
